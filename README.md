@@ -1,5 +1,8 @@
 # Yasir Ahmed | AI & Software Developer  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasir-ahmed-08a338213/)  
+
+
 ## 🚀 About Me  
 AI & software developer with expertise in **Python, C++, and Retrieval-Augmented Generation (RAG)**. Passionate about **AI applications, automation, and deep learning**.  
 
@@ -9,7 +12,7 @@ Developed a **deep learning model for brain tumor detection** using **PyTorch & 
 ---
 
 ## 🔧 Tech Stack  
-- **Languages:** Python, C++, Java  
+- **Languages:** Python, C/C++ 
 - **AI & ML:** PyTorch, Hugging Face, LangChain  
 - **Data Science:** Pandas, NumPy, Matplotlib  
 - **Web Dev:** Flask, Streamlit, HTML, CSS  
@@ -31,13 +34,15 @@ Optimized version with **copy, download, and dynamic backgrounds**.
 ---
 
 ## 📖 Currently Learning  
-✔ **Fine-Tuning LLMs**  
-✔ **Agentic AI**  
-✔ **RAG for AI Applications**  
-✔ **Scalable AI Deployment**  
+✔ **Fine-Tuning Large Language Models (LLMs)**  
+✔ **Agentic AI & Autonomous Agents**  
+✔ **Retrieval-Augmented Generation (RAG) for AI Applications**  
+✔ **Scalable AI Model Deployment**  
+✔ **GUI Development with Qt**  
 
 ---
 
 ## 📬 Let's Connect  
 📧 **Email:** yasirahmed5077@gmail.com
-🔗 **LinkedIn:**  https://www.linkedin.com/in/yasir-ahmed-08a338213/
+🔗 **LinkedIn:** https://www.linkedin.com/in/yasir-ahmed-08a338213/
+

@@ -1,7 +1,17 @@
+<!-- Centered Profile Picture -->
+<p align="center">
+  <img src="https://your-profile-picture-url.jpg" width="150" height="150" alt="Yasir Ahmed">
+</p>
+
 # Yasir Ahmed | AI & Software Developer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasir-ahmed-08a338213/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasir-ahmed-08a338213/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
+---
 
 ## 🚀 About Me  
 AI & software developer with expertise in **Python, C++, and Retrieval-Augmented Generation (RAG)**. Passionate about **AI applications, automation, and deep learning**.  
@@ -12,7 +22,7 @@ Developed a **deep learning model for brain tumor detection** using **PyTorch & 
 ---
 
 ## 🔧 Tech Stack  
-- **Languages:** Python, C/C++ 
+- **Languages:** Python, C/C++  
 - **AI & ML:** PyTorch, Hugging Face, LangChain  
 - **Data Science:** Pandas, NumPy, Matplotlib  
 - **Web Dev:** Flask, Streamlit, HTML, CSS  
@@ -43,6 +53,5 @@ Optimized version with **copy, download, and dynamic backgrounds**.
 ---
 
 ## 📬 Let's Connect  
-📧 **Email:** yasirahmed5077@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/yasir-ahmed-08a338213/
-
+📧 **Email:** yasirahmed5077@gmail.com  
+🔗 **LinkedIn:** [yasir-ahmed-08a338213](https://www.linkedin.com/in/yasir-ahmed-08a338213/)  

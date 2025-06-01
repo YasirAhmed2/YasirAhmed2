@@ -21,11 +21,13 @@ Developed a **deep learning model for brain tumor detection** using **PyTorch & 
 ---
 
 ## 🔧 Tech Stack  
-- **Languages:** Python, C/C++ 
-- **AI & ML:** PyTorch, Hugging Face, LangChain  
-- **Data Science:** Pandas, NumPy, Matplotlib  
-- **Web Dev:** Flask, Streamlit, HTML, CSS  
-- **Tools:** VS Code, Google Colab, Qt  
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,streamlit,github,git,vscode,linux,jupyter" />
+</p>
+
+---
 
 ---
 

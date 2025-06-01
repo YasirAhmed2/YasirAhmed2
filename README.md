@@ -68,13 +68,20 @@ Optimized version with **copy, download, and dynamic backgrounds**.
 ---
 
 ## 📬 Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/yasir-ahmed-08a338213"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:yasirahmed5077@gmail.com"><img src="https://img.icons8.com/ios-filled/40/ea4335/gmail.png" alt="Gmail"/></a>
-  <a href="https://github.com/YasirAhmed2"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://www.linkedin.com/in/yasir-ahmed-08a338213" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yasirahmed5077@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YasirAhmed2" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+  </a>
 </p>
----
+
 
 
 

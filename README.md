@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Yasir Ahmed</h1>
 <p align="center">🚀 AI/ML Enthusiast | 🎓 Data Science Student | 💻 Python & C++ Developer</p>
 <p align="center">
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social"></a>
+  <a href="https://github.com/YasirAhmed2"><img src="https://img.shields.io/github/followers/YasirAhmed2?label=Follow&style=social"></a>
   <img src="https://img.shields.io/badge/AI/ML-Enthusiast-ff69b4">
   <img src="https://img.shields.io/badge/Language-Python-blue">
   <img src="https://img.shields.io/badge/Framework-Flask-green">

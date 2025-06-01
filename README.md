@@ -23,8 +23,14 @@ Developed a **deep learning model for brain tumor detection** using **PyTorch & 
 ## 🔧 Tech Stack  
 
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,streamlit,github,git,vscode,linux,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,flask,streamlit,github,git,vscode,linux,jupyter" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,postgres,mongodb,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=pandas,scikit-learn" />
+  <img src="https://img.shields.io/badge/Seaborn-Blue?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -50,6 +56,14 @@ Optimized version with **copy, download, and dynamic backgrounds**.
 ✔ **Retrieval-Augmented Generation (RAG) for AI Applications**  
 ✔ **Scalable AI Model Deployment**  
 ✔ **GUI Development with Qt**  
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasirAhmed2&show_icons=true&theme=tokyonight" alt="Yasir's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasirAhmed2&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 

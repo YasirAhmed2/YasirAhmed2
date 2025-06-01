@@ -68,5 +68,12 @@ Optimized version with **copy, download, and dynamic backgrounds**.
 ---
 
 ## 📬 Let's Connect  
-📧 **Email:** yasirahmed5077@gmail.com
-🔗 **LinkedIn:** https://www.linkedin.com/in/yasir-ahmed-08a338213/
+<p>
+  <a href="https://www.linkedin.com/in/yasir-ahmed-08a338213/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:yasirahmed5077@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/YasirAhmed2"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+

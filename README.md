@@ -1,8 +1,17 @@
-# Yasir Ahmed | AI & Software Developer  
+<h1 align="center">👋 Hi, I'm Yasir Ahmed</h1>
+<p align="center">🚀 AI/ML Enthusiast | 🎓 Data Science Student | 💻 Python & C++ Developer</p>
+<p align="center">
+  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social"></a>
+  <img src="https://img.shields.io/badge/AI/ML-Enthusiast-ff69b4">
+  <img src="https://img.shields.io/badge/Language-Python-blue">
+  <img src="https://img.shields.io/badge/Framework-Flask-green">
+  <img src="https://img.shields.io/badge/UI-Streamlit-orange">
+</p>
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasir-ahmed-08a338213/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YasirAhmed2)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🚀 About Me  
 AI & software developer with expertise in **Python, C++, and Retrieval-Augmented Generation (RAG)**. Passionate about **AI applications, automation, and deep learning**.  
 

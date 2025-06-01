@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasir-ahmed-08a338213/)  
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=YasirAhmed2)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🚀 About Me  
 AI & software developer with expertise in **Python, C++, and Retrieval-Augmented Generation (RAG)**. Passionate about **AI applications, automation, and deep learning**.  
 

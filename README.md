@@ -69,10 +69,7 @@ Optimized version with **copy, download, and dynamic backgrounds**.
 ✔ **Retrieval-Augmented Generation (RAG) for AI Applications**  
 ✔ **Scalable AI Model Deployment**  
 ✔ **GUI Development with Qt**  
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsWSHfuhJQzdbG4/giphy.gif" alt="NN Training" width="700"/>
-</p>
----
+
 
 ## 📊 GitHub Stats
 

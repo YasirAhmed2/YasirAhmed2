@@ -49,6 +49,12 @@ Developed a **deep learning model for brain tumor detection** using **PyTorch & 
 ---
 
 ---
+## 💻 Tech Stack
+
+| 👨‍💻 Languages | 🚀 Frameworks / Libraries | 🛠️ Tools & Platforms |
+|---------------|----------------------------|-----------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) <br> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) <br> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) <br> ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F63?style=flat&logo=python&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) <br> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) <br> ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) <br> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
 
 ## 📌 AI Image Captioning Projects  
 ### 🔹 AI Image Captioning Tool  

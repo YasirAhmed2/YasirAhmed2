@@ -19,9 +19,22 @@ AI & software developer with expertise in **Python, C++, and Retrieval-Augmented
 Developed a **deep learning model for brain tumor detection** using **PyTorch & X-ray datasets**, competing against students from **FAST, NUST & Quaid-e-Azam University** at SZABIST.  
 
 ---
+## 📬 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasir-ahmed-08a338213" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yasirahmed5077@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YasirAhmed2" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+  </a>
+</p>
 
-## 🔧 Tech Stack  
-
+## 🔧 Languages and Tools
 
 
 <p align="center">
@@ -56,8 +69,11 @@ Optimized version with **copy, download, and dynamic backgrounds**.
 ✔ **Retrieval-Augmented Generation (RAG) for AI Applications**  
 ✔ **Scalable AI Model Deployment**  
 ✔ **GUI Development with Qt**  
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsWSHfuhJQzdbG4/giphy.gif" alt="NN Training" width="700"/>
+</p>
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -67,20 +83,7 @@ Optimized version with **copy, download, and dynamic backgrounds**.
 
 ---
 
-## 📬 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasir-ahmed-08a338213" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:yasirahmed5077@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/YasirAhmed2" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
-  </a>
-</p>
+
 
 
 

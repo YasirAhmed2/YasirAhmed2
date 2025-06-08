@@ -73,7 +73,7 @@ Optimized version with **copy, download, and dynamic backgrounds**.
 ✔ **GUI Development with Qt**  
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasirAhmed2&show_icons=true&theme=tokyonight" alt="Yasir's GitHub stats" />

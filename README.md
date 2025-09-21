@@ -18,6 +18,9 @@ AI & software developer with expertise in **Python, C++, and Retrieval-Augmented
 🏆 **1st Place - ZAB AI Cup 2024**  
 Developed a **deep learning model for brain tumor detection** using **PyTorch & X-ray datasets**, competing against students from **FAST, NUST & Quaid-e-Azam University** at SZABIST.  
 
+🏆 **Qualified – International Computer Science Competition (ICSC) 2025**  
+Successfully passed the **Qualification Round** with a unique problem-solving mindset and earned eligibility for the **Pre-Final Round**.  
+
 ---
 ## 📬 Connect with me
 <p align="center">
@@ -35,10 +38,8 @@ Developed a **deep learning model for brain tumor detection** using **PyTorch & 
 </p>
 
 ## 🔧 Languages and Tools
-
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,flask,streamlit,github,git,vscode,linux,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,flask,streamlit,github,git,vscode,linux,jupyter" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,postgres,mongodb,tensorflow,pytorch" />
@@ -47,10 +48,6 @@ Developed a **deep learning model for brain tumor detection** using **PyTorch & 
 </p>
 
 ---
-
----
-
-
 
 ## 📌 AI Image Captioning Projects  
 ### 🔹 AI Image Captioning Tool  
@@ -71,22 +68,12 @@ Optimized version with **copy, download, and dynamic backgrounds**.
 ✔ **Retrieval-Augmented Generation (RAG) for AI Applications**  
 ✔ **Scalable AI Model Deployment**  
 ✔ **GUI Development with Qt**  
+✔ **Full-Stack Website Development**  
 
-
-## GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasirAhmed2&show_icons=true&theme=tokyonight" alt="Yasir's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasirAhmed2&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
-
-
-
-
-
-
-
-
-

@@ -21,7 +21,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasir-ahmed-08a338213/)  
 
-> *“Artificial Intelligence is not about man versus machine, it’s about man with machine.”* 🤖  
+> *“AI will not replace humans, but those who use AI will replace those who don't" — Ginni Rometty, Former CEO of IBM.”* 🤖  
 
 ---
 
@@ -40,12 +40,12 @@ Cleared the **Qualification Round** with strong problem-solving skills, earning 
 
 | Project | Description | Tech | Repo |
 |---------|-------------|------|------|
-| **Flight Management System** | Postgres DB + Streamlit dashboard for managing flights | Python, Streamlit, PostgreSQL | [🔗 Repo](https://github.com/YasirAhmed2/Database-Semester-Project-Code) |
-| **Smart Traffic Routing System** | Dijkstra’s algorithm for shortest path routing | C++, DSA | [🔗 Repo](https://github.com/YasirAhmed2/Smart-Traffic-Routing-System) |
-| **QALAMCHAIN** | Intelligent Urdu PDF Assistant (LangChain, Whisper, FAISS) | Python, Streamlit, LangChain | [🔗 Repo](https://github.com/YasirAhmed2/QALAMCHAIN) |
-| **OpinionLense** | Sentiment analysis tool for user comments | Python, Hugging Face, Streamlit | [🔗 Repo](https://github.com/YasirAhmed2/OpinionLense) |
-| **AI Image Captioning Tool** | Flask-based AI caption generator | Python, Flask, Hugging Face | 🔗 Coming Soon |
-| **Enhanced AI Image Captioning** | Copy, download & dynamic captions | Python, Flask, JS | 🔗 Coming Soon |
+| **Flight Management System** | Postgres DB + Streamlit dashboard for managing flights | Python, Streamlit, PostgreSQL | [Repo](https://github.com/YasirAhmed2/Database-Semester-Project-Code) |
+| **Smart Traffic Routing System** | Dijkstra’s algorithm for shortest path routing | C++, DSA | [Repo](https://github.com/YasirAhmed2/Smart-Traffic-Routing-System) |
+| **QALAMCHAIN** | Intelligent Urdu PDF Assistant (LangChain, Whisper, FAISS) | Python, Streamlit, LangChain | [Repo](https://github.com/YasirAhmed2/QALAMCHAIN) |
+| **OpinionLense** | Sentiment analysis tool for user comments | Python, Hugging Face, Streamlit | [Repo](https://github.com/YasirAhmed2/OpinionLense) |
+| **AI Image Captioning Tool** | Flask-based AI caption generator | Python, Flask, Hugging Face | Coming Soon |
+| **Enhanced AI Image Captioning** | Copy, download & dynamic captions | Python, Flask, JS | Coming Soon |
 
 ---
 

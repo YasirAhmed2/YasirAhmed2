@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🚀 <b>AI/ML Enthusiast</b> | 🎓 <b>Data Science Student</b> | 💻 <b>Python & C++ Developer</b>
+   <b>AI/ML Enthusiast</b> | 🎓 <b>Data Science Student</b> | 💻 <b>Python & C++ Developer</b>
 </p>
 
 <p align="center">

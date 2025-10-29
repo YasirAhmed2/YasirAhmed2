@@ -99,12 +99,10 @@ I’m an **AI & Software Developer** passionate about building intelligent syste
 
 I'm always open to collaborating on exciting projects related to:  
 - 🧠 **AI/ML research** and **RAG-based tools**  
-- 🌐 **Full-stack apps** combining Flask, Streamlit, and React  
+- 🌐 **Backend Server** using ExpressJS
 - 🤖 **Autonomous AI agents** and smart automation systems  
 - 💡 Projects that make AI more **accessible and impactful**  
 
-📬 Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/yasir-ahmed-08a338213) or [Email](mailto:yasirahmed5077@gmail.com)!  
-Let's innovate together 
 
 
 ---

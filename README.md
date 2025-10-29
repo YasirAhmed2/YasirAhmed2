@@ -57,7 +57,7 @@ I’m an **AI & Software Developer** passionate about building intelligent syste
 
 ## 📚 Currently Exploring  
 
-- 🌐 Full-Stack Web Development (Flask + React + Streamlit)  
+- 🌐 Full-Stack Web Development (NodeJS + ExpressJS + React)  
 - 🧩 Fine-Tuning Large Language Models (LLMs)  
 - ⚙️ Agentic AI & Autonomous Workflows  
 - 🔍 Retrieval-Augmented Generation (RAG)  
@@ -92,6 +92,20 @@ I’m an **AI & Software Developer** passionate about building intelligent syste
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YasirAhmed2&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
+
+---
+
+## 🤝 Let's Collaborate  
+
+I'm always open to collaborating on exciting projects related to:  
+- 🧠 **AI/ML research** and **RAG-based tools**  
+- 🌐 **Full-stack apps** combining Flask, Streamlit, and React  
+- 🤖 **Autonomous AI agents** and smart automation systems  
+- 💡 Projects that make AI more **accessible and impactful**  
+
+📬 Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/yasir-ahmed-08a338213) or [Email](mailto:yasirahmed5077@gmail.com)!  
+Let's innovate together 
+
 
 ---
 

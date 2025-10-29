@@ -25,7 +25,10 @@
 
 I’m an **AI & Software Developer** passionate about building intelligent systems using **Python, C++, and modern AI frameworks**. My current focus areas include **Retrieval-Augmented Generation (RAG)**, **Autonomous AI Agents**, and **End-to-End Model Deployment**.  
 
-🎯 Always exploring how to make AI **accessible, scalable, and impactful** through innovative tools and real-world applications.
+🎯 Always exploring how to make AI **accessible, scalable, and impactful** through innovative tools and real-world applications.  
+
+🌐 Check out my **[Portfolio Website](https://yasirahmed.tech)** to explore my projects, experience, and AI journey in detail.
+
 
 ---
 
@@ -72,7 +75,7 @@ I’m an **AI & Software Developer** passionate about building intelligent syste
 ## 🧰 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,flask,streamlit,github,git,vscode,linux,jupyter" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,flask,streamlit,github,git,vscode,linux,jupyter" /><br><br>
   <img src="https://skillicons.dev/icons?i=figma,postgres,mongodb,tensorflow,pytorch,pandas,scikitlearn" />
   <img src="https://img.shields.io/badge/Seaborn-Blue?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -100,6 +103,7 @@ I’m an **AI & Software Developer** passionate about building intelligent syste
   <a href="mailto:yasirahmed5077@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/YasirAhmed2" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
+    <a href="https://yasirahmed.tech" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/></a>
 </p>
 
 ---

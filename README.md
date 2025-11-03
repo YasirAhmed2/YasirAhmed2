@@ -38,7 +38,8 @@ I’m an **AI & Software Developer** passionate about building intelligent syste
   Developed a deep learning model for **Brain Tumor Detection** using **PyTorch**, competing against students from **FAST, NUST & QAU**.
 
 - 🌍 **Qualified — International Computer Science Competition (ICSC) 2025**  
-  Successfully cleared the **Qualification Round**, securing a position in the **Pre-Final Round**.
+  Successfully cleared the **Qualification Round** and **Pre-Final Round**, earning **eligibility for the Final Round**.  
+  Explored optimization, AI defense, and research problems — with *“The Lighthouse Code”* encryption challenge being a personal favorite.
 
 ---
 

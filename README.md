@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yasir%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20Science%20Student&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,40:0e4d6e,100:0d7377&height=200&section=header&text=Yasir%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20Science%20Student&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <br/>
 
@@ -14,14 +14,14 @@
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://yasirahmed.tech">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0d7377?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YasirAhmed2&style=flat-square&color=6366f1&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=YasirAhmed2&style=flat-square&color=0d7377&label=PROFILE+VIEWS" />
 <a href="https://github.com/YasirAhmed2">
-  <img src="https://img.shields.io/github/followers/YasirAhmed2?label=Followers&style=flat-square&color=6366f1"/>
+  <img src="https://img.shields.io/github/followers/YasirAhmed2?label=Followers&style=flat-square&color=0d7377"/>
 </a>
 
 </div>
@@ -73,7 +73,7 @@ My journey began with **Python and C++**, evolving into full-stack development, 
 <tr>
   <td>🧩</td>
   <td><strong>JMC Project Exhibition 2026</strong></td>
-  <td>Showcased <em>SyncCode</em> as Project Presenter</td>
+  <td>Project Presenter — Showcased <em>SyncCode</em></td>
 </tr>
 </table>
 
@@ -115,6 +115,8 @@ My journey began with **Python and C++**, evolving into full-stack development, 
 ---
 
 ## 🧰 Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -158,6 +160,8 @@ My journey began with **Python and C++**, evolving into full-stack development, 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 GitHub Insights
@@ -174,6 +178,10 @@ My journey began with **Python and C++**, evolving into full-stack development, 
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=YasirAhmed2&theme=tokyonight&no-frame=true&margin-w=12&column=7"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasirAhmed2&bg_color=1a1b27&color=38bdae&line=0d7377&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -209,8 +217,10 @@ If you're building something ambitious, let's talk.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:0e4d6e,100:0a192f&height=120&section=footer&animation=fadeIn"/>
 
 **⭐ "Building intelligent systems, not just models." ⭐**
+
+<sub>Made with precision · Powered by curiosity · Driven by impact</sub>
 
 </div>

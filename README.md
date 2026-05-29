@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,40:0e4d6e,100:0d7377&height=200&section=header&text=Yasir%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Data%20Science%20Student&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,40:0e4d6e,100:0d7377&height=200&section=header&text=Yasir%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <br/>
 
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:yasirahmed5077@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/YasirAhmed2">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
@@ -20,9 +20,6 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=YasirAhmed2&style=flat-square&color=0d7377&label=PROFILE+VIEWS" />
-<a href="https://github.com/YasirAhmed2">
-  <img src="https://img.shields.io/github/followers/YasirAhmed2?label=Followers&style=flat-square&color=0d7377"/>
-</a>
 
 </div>
 
@@ -32,184 +29,125 @@
 
 ```yaml
 Name        : Yasir Ahmed
-Role        : AI/ML Engineer · Full-Stack Developer · Data Science Student
-Focus       : End-to-End AI Systems · RAG Pipelines · Scalable Backend Architecture
-Mindset     : "Don't just learn AI — build systems that use AI intelligently."
-Portfolio   : https://yasirahmed.tech
+Role        : AI/ML Engineer · Full-Stack Developer
+Focus       : AI Systems · RAG Pipelines · Scalable Backend Architecture
+Approach    : "Build systems that solve real-world problems."
 ```
 
-I'm an **AI and Software Developer** who enjoys solving real-world problems through practical, scalable systems — from RAG-based assistants to real-time collaborative platforms.
-
-My journey began with **Python and C++**, evolving into full-stack development, AI systems, and production-grade deployments. I build things that are **actually useful**, not just technically impressive.
-
-> 💬 *"AI will not replace humans, but those who use AI will replace those who don't."*
-> — Ginni Rometty, Former CEO of IBM
+I build **production-ready AI systems and scalable applications**, focusing on solving real-world collaboration and productivity challenges — not just developing models.
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🚀 Flagship Project
 
-<table>
-<tr>
-  <td>🥇</td>
-  <td><strong>1st Place — ZAB AI Cup 2024</strong></td>
-  <td>Brain Tumor Detection using PyTorch</td>
-</tr>
-<tr>
-  <td>🥈</td>
-  <td><strong>2nd Place — PAF-IAST Web Sprint</strong></td>
-  <td>Built <em>GrowthGraph AI</em> in just <strong>3 hours</strong></td>
-</tr>
-<tr>
-  <td>🌍</td>
-  <td><strong>ICSC 2025 — Final Round Qualifier</strong></td>
-  <td>Cleared Qualification + Pre-Final rounds</td>
-</tr>
-<tr>
-  <td>⚡</td>
-  <td><strong>AI Hackathon & Drone Swarm Gala 2026</strong></td>
-  <td>AI Speed Coding Participant · Pak China Centre, Islamabad</td>
-</tr>
-<tr>
-  <td>🧩</td>
-  <td><strong>JMC Project Exhibition 2026</strong></td>
-  <td>Project Presenter — Showcased <em>SyncCode</em></td>
-</tr>
-</table>
+### **SyncCode — Real-Time Collaborative Development Platform**
+
+A system designed to eliminate friction in developer collaboration by enabling **real-time shared coding environments**.
+
+**Key Capabilities**
+
+* Multi-user real-time synchronization
+* Shared execution environment
+* Low-latency communication via WebSockets
+
+🌐 Live: https://synccode.dev
 
 ---
 
-## 💡 Featured Projects
+## 🏆 Achievements
 
-| # | Project | Description | Tech Stack | Link |
-|---|---------|-------------|------------|------|
-| 🚀 | **SyncCode** | Real-time collaborative coding platform for developers | MERN · WebSockets · Realtime Sync | 🔜 Coming Soon |
-| 📈 | **GrowthGraph AI** | AI roadmap generator based on skills, time & career goals | Python · AI Logic · Planning System | 🔜 Coming Soon |
-| ☁️ | **LocalCloud** | Create virtual instances based on local system resources | Node.js · Systems · Virtualization | 🔜 Coming Soon |
-| 🌑 | **LumenShadow** | 2D React Native game using shadow-based movement mechanics | React Native · Game Logic | 🔜 Coming Soon |
-| 📱 | **Task Manager App** | Android task manager built with Expo | React Native · Expo | 🔜 Coming Soon |
-| 🛫 | **Flight Management System** | Streamlit dashboard with PostgreSQL backend | Python · Streamlit · PostgreSQL | [🔗 Repo](https://github.com/YasirAhmed2/Database-Semester-Project-Code) |
-| 🚦 | **Smart Traffic Routing** | Dijkstra's algorithm for real-time optimization | C++ · DSA | [🔗 Repo](https://github.com/YasirAhmed2/Smart-Traffic-Routing-System) |
-| 🧠 | **QALAMCHAIN** | Urdu PDF Assistant (RAG-based) | LangChain · Whisper · FAISS | [🔗 Repo](https://github.com/YasirAhmed2/QALAMCHAIN) |
-| 💬 | **OpinionLense** | Real-time sentiment analysis tool | Python · Hugging Face | [🔗 Repo](https://github.com/YasirAhmed2/OpinionLense) |
+* 🥇 1st Place — ZAB AI Cup 2024 (PyTorch)
+* 🥈 2nd Place — PAF-IAST Web Sprint
+* 🌍 ICSC 2025 Final Round Qualifier
+* ⚡ AI Hackathon 2026 Participant
+* 🧩 Project Exhibition — SyncCode
 
 ---
 
-## 📚 Currently Exploring
+## 💡 Projects
 
-<table>
-<tr>
-  <td>☁️ Cloud Computing & Distributed Systems</td>
-  <td>🏗️ System Design (Scalable Architectures)</td>
-</tr>
-<tr>
-  <td>🌐 Full-Stack Development (React + Node.js)</td>
-  <td>🤖 Agentic AI Systems</td>
-</tr>
-<tr>
-  <td>🔍 Retrieval-Augmented Generation (RAG)</td>
-  <td>⚡ Performance Optimization & Deployment</td>
-</tr>
-</table>
+| Project                     | Description                             | Links                                                            |
+| --------------------------- | --------------------------------------- | ---------------------------------------------------------------- |
+| 🚀 SyncCode                 | Real-time collaborative coding platform | 🌐 https://synccode.dev                                          |
+| 📈 GrowthGraph AI           | AI-powered roadmap generator            | 🔜 Coming Soon                                                   |
+| ☁️ LocalCloud               | Local virtual instance system           | 🔜 Coming Soon                                                   |
+| 🧠 QALAMCHAIN               | Urdu RAG-based assistant                | 🔗 https://github.com/YasirAhmed2/QALAMCHAIN                     |
+| 💬 OpinionLense             | Real-time sentiment analysis            | 🔗 https://github.com/YasirAhmed2/OpinionLense                   |
+| 🚦 Smart Traffic Routing    | Dijkstra-based optimization             | 🔗 https://github.com/YasirAhmed2/Smart-Traffic-Routing-System   |
+| 🛫 Flight Management System | DB-driven dashboard                     | 🔗 https://github.com/YasirAhmed2/Database-Semester-Project-Code |
+
+---
+
+## 📚 Current Focus
+
+* Scalable system design
+* Distributed systems & cloud
+* Advanced RAG architectures
+* Performance optimization
 
 ---
 
 ## 🧰 Tech Stack
 
+### Languages
+
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
+</div>
 
-**Languages**
+### Frontend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,reactnative,html,css" />
+</div>
 
-**Frontend**
+### Backend & Databases
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,supabase" />
+</div>
 
-**Backend & Databases**
+### AI / ML
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</div>
 
-**AI / ML**
+### Tools
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 </div>
 
 ---
 
-## 📊 GitHub Insights
+## 🤝 Collaboration
 
-<div align="center">
+I’m interested in contributing to **impactful and technically challenging systems**, particularly in:
 
-<img src="https://github-readme-stats.vercel.app/api?username=YasirAhmed2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YasirAhmed2&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirAhmed2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YasirAhmed2&theme=tokyonight&no-frame=true&margin-w=12&column=7"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasirAhmed2&bg_color=1a1b27&color=38bdae&line=0d7377&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
+* AI/ML and intelligent applications
+* Retrieval-Augmented Generation (RAG) systems
+* Scalable backend architectures
+* Real-time and collaborative platforms
 
 ---
 
-## 🤝 Open to Collaborate On
-
-```
-✅  AI/ML & RAG-based systems
-✅  Cloud & backend infrastructure
-✅  Autonomous AI agents
-✅  Real-world, high-impact tools
-```
-
-If you're building something ambitious, let's talk.
-
----
-
-## 📬 Get In Touch
+## 📬 Contact
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [yasir-ahmed-08a338213](https://www.linkedin.com/in/yasir-ahmed-08a338213) |
-| 📧 Email | [yasirahmed5077@gmail.com](mailto:yasirahmed5077@gmail.com) |
-| 🐙 GitHub | [YasirAhmed2](https://github.com/YasirAhmed2) |
-| 🌐 Portfolio | [yasirahmed.tech](https://yasirahmed.tech) |
+<a href="https://www.linkedin.com/in/yasir-ahmed-08a338213">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:yasirahmed5077@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+<a href="https://github.com/YasirAhmed2">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://yasirahmed.tech">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+</a>
 
 </div>
 
@@ -219,8 +157,6 @@ If you're building something ambitious, let's talk.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:0e4d6e,100:0a192f&height=120&section=footer&animation=fadeIn"/>
 
-**⭐ "Building intelligent systems, not just models." ⭐**
-
-<sub>Made with precision · Powered by curiosity · Driven by impact</sub>
+**Building systems where AI meets real-world utility.**
 
 </div>

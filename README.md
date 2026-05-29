@@ -34,7 +34,11 @@ Focus       : AI Systems · RAG Pipelines · Scalable Backend Architecture
 Approach    : "Build systems that solve real-world problems."
 ```
 
-I build **production-ready AI systems and scalable applications**, focusing on solving real-world collaboration and productivity challenges — not just developing models.
+I build **AI-powered systems and scalable platforms** that help teams and businesses improve collaboration, decision-making, and productivity.
+My focus lies in **real-time systems, Retrieval-Augmented Generation (RAG), and backend architecture**, where performance and usability matter.
+
+Through projects like *SyncCode*, I’ve solved practical challenges such as **inefficient remote collaboration** by enabling developers to work together in real time with shared environments and low-latency communication.
+I aim to create solutions that are not just technically sound, but **directly useful in real-world workflows and business environments**.
 
 ---
 
@@ -50,7 +54,13 @@ A system designed to eliminate friction in developer collaboration by enabling *
 * Shared execution environment
 * Low-latency communication via WebSockets
 
-🌐 Live: https://synccode.dev
+<div align="left">
+
+<a href="https://synccode.dev">
+  <img src="https://img.shields.io/badge/View%20Live-0d7377?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -66,15 +76,15 @@ A system designed to eliminate friction in developer collaboration by enabling *
 
 ## 💡 Projects
 
-| Project                     | Description                             | Links                                                            |
-| --------------------------- | --------------------------------------- | ---------------------------------------------------------------- |
-| 🚀 SyncCode                 | Real-time collaborative coding platform | 🌐 https://synccode.dev                                          |
-| 📈 GrowthGraph AI           | AI-powered roadmap generator            | 🔜 Coming Soon                                                   |
-| ☁️ LocalCloud               | Local virtual instance system           | 🔜 Coming Soon                                                   |
-| 🧠 QALAMCHAIN               | Urdu RAG-based assistant                | 🔗 https://github.com/YasirAhmed2/QALAMCHAIN                     |
-| 💬 OpinionLense             | Real-time sentiment analysis            | 🔗 https://github.com/YasirAhmed2/OpinionLense                   |
-| 🚦 Smart Traffic Routing    | Dijkstra-based optimization             | 🔗 https://github.com/YasirAhmed2/Smart-Traffic-Routing-System   |
-| 🛫 Flight Management System | DB-driven dashboard                     | 🔗 https://github.com/YasirAhmed2/Database-Semester-Project-Code |
+| Project                     | Description                             | Links                                                                                                                                                                                        |
+| --------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🚀 SyncCode                 | Real-time collaborative coding platform | <a href="https://synccode.dev"><img src="https://img.shields.io/badge/View%20Live-0d7377?style=flat-square&logo=vercel&logoColor=white"/></a>                                                |
+| 📈 GrowthGraph AI           | AI-powered roadmap generator            | 🔜                                                                                                                                                                                           |
+| ☁️ LocalCloud               | Local virtual instance system           | 🔜                                                                                                                                                                                           |
+| 🧠 QALAMCHAIN               | Urdu RAG-based assistant                | <a href="https://github.com/YasirAhmed2/QALAMCHAIN"><img src="https://img.shields.io/badge/View%20Repository-171515?style=flat-square&logo=github&logoColor=white"/></a>                     |
+| 💬 OpinionLense             | Real-time sentiment analysis            | <a href="https://github.com/YasirAhmed2/OpinionLense"><img src="https://img.shields.io/badge/View%20Repository-171515?style=flat-square&logo=github&logoColor=white"/></a>                   |
+| 🚦 Smart Traffic Routing    | Dijkstra-based optimization             | <a href="https://github.com/YasirAhmed2/Smart-Traffic-Routing-System"><img src="https://img.shields.io/badge/View%20Repository-171515?style=flat-square&logo=github&logoColor=white"/></a>   |
+| 🛫 Flight Management System | DB-driven dashboard                     | <a href="https://github.com/YasirAhmed2/Database-Semester-Project-Code"><img src="https://img.shields.io/badge/View%20Repository-171515?style=flat-square&logo=github&logoColor=white"/></a> |
 
 ---
 
@@ -123,12 +133,12 @@ A system designed to eliminate friction in developer collaboration by enabling *
 
 ## 🤝 Collaboration
 
-I’m interested in contributing to **impactful and technically challenging systems**, particularly in:
+I collaborate on **high-impact, production-oriented systems**, particularly in:
 
 * AI/ML and intelligent applications
-* Retrieval-Augmented Generation (RAG) systems
-* Scalable backend architectures
-* Real-time and collaborative platforms
+* RAG-based systems and LLM integrations
+* Scalable backend and distributed architectures
+* Real-time platforms and developer tools
 
 ---
 
@@ -157,6 +167,6 @@ I’m interested in contributing to **impactful and technically challenging syst
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:0e4d6e,100:0a192f&height=120&section=footer&animation=fadeIn"/>
 
-**Building systems where AI meets real-world utility.**
+**Building systems where AI meets real-world impact.**
 
 </div>
